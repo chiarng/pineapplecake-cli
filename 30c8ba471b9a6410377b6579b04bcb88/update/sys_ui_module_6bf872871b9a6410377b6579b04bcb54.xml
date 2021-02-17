@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_module">
+    <sys_ui_module action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <application display_value="pineapplecake_registry">a7f872871b9a6410377b6579b04bcb52</application>
+        <filter/>
+        <name>pineapplecake_registries</name>
+        <order/>
+        <path/>
+        <path_relative_to_root>false</path_relative_to_root>
+        <roles>x_acer_pineappleca.pineapplecake_registry_user</roles>
+        <sys_class_name>sys_ui_module</sys_class_name>
+        <sys_created_by>chiarng.lin@snc</sys_created_by>
+        <sys_created_on>2021-02-17 20:52:03</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>6bf872871b9a6410377b6579b04bcb54</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>pineapplecake_registries</sys_name>
+        <sys_package display_value="pineapplecake_factory" source="x_acer_pineappleca">30c8ba471b9a6410377b6579b04bcb88</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="pineapplecake_factory">30c8ba471b9a6410377b6579b04bcb88</sys_scope>
+        <sys_update_name>sys_ui_module_6bf872871b9a6410377b6579b04bcb54</sys_update_name>
+        <sys_updated_by>chiarng.lin@snc</sys_updated_by>
+        <sys_updated_on>2021-02-17 20:52:03</sys_updated_on>
+        <table>x_acer_pineappleca_pineapplecake_registry</table>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+    </sys_ui_module>
+</record_update>

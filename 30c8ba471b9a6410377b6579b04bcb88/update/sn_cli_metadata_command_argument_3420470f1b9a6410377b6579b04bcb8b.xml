@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sn_cli_metadata_command_argument">
+    <sn_cli_metadata_command_argument action="INSERT_OR_UPDATE">
+        <command display_value="eat">e94a72c71b9a6410377b6579b04bcb15</command>
+        <data_type>string</data_type>
+        <default_value/>
+        <help_text>Sys ID of the pineapple cake you want to eat. </help_text>
+        <mandatory>true</mandatory>
+        <name>sysid</name>
+        <order>100</order>
+        <prompt>SysID</prompt>
+        <shorter_flag>s</shorter_flag>
+        <sys_class_name>sn_cli_metadata_command_argument</sys_class_name>
+        <sys_created_by>chiarng.lin@snc</sys_created_by>
+        <sys_created_on>2021-02-17 21:23:49</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_id>3420470f1b9a6410377b6579b04bcb8b</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>sysid</sys_name>
+        <sys_package display_value="pineapplecake_factory" source="x_acer_pineappleca">30c8ba471b9a6410377b6579b04bcb88</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="pineapplecake_factory">30c8ba471b9a6410377b6579b04bcb88</sys_scope>
+        <sys_update_name>sn_cli_metadata_command_argument_3420470f1b9a6410377b6579b04bcb8b</sys_update_name>
+        <sys_updated_by>chiarng.lin@snc</sys_updated_by>
+        <sys_updated_on>2021-02-17 21:24:05</sys_updated_on>
+        <visibility_expression/>
+    </sn_cli_metadata_command_argument>
+</record_update>

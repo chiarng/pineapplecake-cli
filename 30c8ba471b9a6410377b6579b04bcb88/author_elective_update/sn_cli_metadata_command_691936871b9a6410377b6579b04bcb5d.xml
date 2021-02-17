@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sn_cli_metadata_command">
+    <sn_cli_metadata_command action="DELETE">
+        <active>true</active>
+        <api_endpoint display_value="api/now/table/{table}">476ceba0730020109ac8dd943cf6a758</api_endpoint>
+        <callback_expression/>
+        <callback_interval>1000</callback_interval>
+        <callback_max_retries>10</callback_max_retries>
+        <command_group display_value="pineapplecake">5809b2871b9a6410377b6579b04bcb89</command_group>
+        <example/>
+        <failure_expression/>
+        <failure_message/>
+        <is_poll_command>false</is_poll_command>
+        <long_description/>
+        <name>bake</name>
+        <poll_command/>
+        <progress_message/>
+        <short_description>Bake a pineapple cake! </short_description>
+        <success_expression/>
+        <success_message/>
+        <sys_class_name>sn_cli_metadata_command</sys_class_name>
+        <sys_created_by>chiarng.lin@snc</sys_created_by>
+        <sys_created_on>2021-02-17 20:52:56</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_id>691936871b9a6410377b6579b04bcb5d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>bake</sys_name>
+        <sys_package display_value="pineapplecake_factory" source="x_acer_pineappleca">30c8ba471b9a6410377b6579b04bcb88</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="pineapplecake_factory">30c8ba471b9a6410377b6579b04bcb88</sys_scope>
+        <sys_update_name>sn_cli_metadata_command_691936871b9a6410377b6579b04bcb5d</sys_update_name>
+        <sys_updated_by>chiarng.lin@snc</sys_updated_by>
+        <sys_updated_on>2021-02-17 20:52:56</sys_updated_on>
+    </sn_cli_metadata_command>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="pineapplecake_factory">30c8ba471b9a6410377b6579b04bcb88</application>
+        <file_path/>
+        <instance_id>c41c67f3dbae54909a4dcac5059619d6</instance_id>
+        <instance_name>chiarngqdemoclient</instance_name>
+        <name>sn_cli_metadata_command_691936871b9a6410377b6579b04bcb5d</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sn_cli_metadata_command"><sn_cli_metadata_command action="INSERT_OR_UPDATE"><active>true</active><api_endpoint display_value="api/now/table/{table}">476ceba0730020109ac8dd943cf6a758</api_endpoint><callback_expression/><callback_interval>1000</callback_interval><callback_max_retries>10</callback_max_retries><command_group display_value="pineapplecake">5809b2871b9a6410377b6579b04bcb89</command_group><example/><failure_expression/><failure_message/><is_poll_command>false</is_poll_command><long_description/><name>bake</name><poll_command/><progress_message/><short_description>Bake a pineapple cake! </short_description><success_expression/><success_message/><sys_class_name>sn_cli_metadata_command</sys_class_name><sys_created_by>chiarng.lin@snc</sys_created_by><sys_created_on>2021-02-17 20:52:56</sys_created_on><sys_domain>global</sys_domain><sys_id>691936871b9a6410377b6579b04bcb5d</sys_id><sys_mod_count>0</sys_mod_count><sys_name>bake</sys_name><sys_package display_value="pineapplecake_factory" source="x_acer_pineappleca">30c8ba471b9a6410377b6579b04bcb88</sys_package><sys_policy/><sys_scope display_value="pineapplecake_factory">30c8ba471b9a6410377b6579b04bcb88</sys_scope><sys_update_name>sn_cli_metadata_command_691936871b9a6410377b6579b04bcb5d</sys_update_name><sys_updated_by>chiarng.lin@snc</sys_updated_by><sys_updated_on>2021-02-17 20:52:56</sys_updated_on></sn_cli_metadata_command></record_update>]]></payload>
+        <payload_hash>1105056219</payload_hash>
+        <record_name>bake</record_name>
+        <reverted_from/>
+        <source>30c8ba471b9a6410377b6579b04bcb8a</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>chiarng.lin@snc</sys_created_by>
+        <sys_created_on>2021-02-17 20:52:56</sys_created_on>
+        <sys_id>6c3936871b9a6410377b6579b04bcb64</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>177b1c46ea10000001</sys_recorded_at>
+        <sys_updated_by>chiarng.lin@snc</sys_updated_by>
+        <sys_updated_on>2021-02-17 20:52:56</sys_updated_on>
+        <type>Command</type>
+        <update_guid>a4393687fc9a64109cd7cc6adf48c064</update_guid>
+        <update_guid_history>a4393687fc9a64109cd7cc6adf48c064:1105056219</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="bake">ad797a871b9a6410377b6579b04bcbae</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>chiarng.lin@snc</sys_created_by>
+        <sys_created_on>2021-02-17 20:54:05</sys_created_on>
+        <sys_db_object display_value="" name="sn_cli_metadata_command">sn_cli_metadata_command</sys_db_object>
+        <sys_id>00974ee726114a9e800e592be76d7c24</sys_id>
+        <sys_metadata>691936871b9a6410377b6579b04bcb5d</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>bake</sys_name>
+        <sys_package display_value="pineapplecake_factory" source="x_acer_pineappleca">30c8ba471b9a6410377b6579b04bcb88</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="pineapplecake_factory">30c8ba471b9a6410377b6579b04bcb88</sys_scope>
+        <sys_scope_delete display_value="">2e49ff6b26294b50bfb3901e4a1fab04</sys_scope_delete>
+        <sys_update_name>sn_cli_metadata_command_691936871b9a6410377b6579b04bcb5d</sys_update_name>
+        <sys_update_version display_value="sn_cli_metadata_command_691936871b9a6410377b6579b04bcb5d">6c3936871b9a6410377b6579b04bcb64</sys_update_version>
+        <sys_updated_by>chiarng.lin@snc</sys_updated_by>
+        <sys_updated_on>2021-02-17 20:54:05</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

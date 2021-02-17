@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sn_cli_metadata_command">
+    <sn_cli_metadata_command action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <api_endpoint display_value="api/now/table/{table}/{sysid}">ee9c2fa0730020109ac8dd943cf6a7e6</api_endpoint>
+        <callback_expression/>
+        <callback_interval>1000</callback_interval>
+        <callback_max_retries>10</callback_max_retries>
+        <command_group display_value="pineapplecake">5809b2871b9a6410377b6579b04bcb89</command_group>
+        <example>Eat a pineapple cake. &#13;
+    $ snc pineapplecake eat -s a9e30c7dc61122760116894de7bcc7bd</example>
+        <failure_expression/>
+        <failure_message>You weren't able to eat the pineapple cake. </failure_message>
+        <is_poll_command>false</is_poll_command>
+        <long_description>Eat a very specific pineapple cake. Yes, that one. </long_description>
+        <name>eat</name>
+        <poll_command/>
+        <progress_message>Eating pineapple cake, yum yum.</progress_message>
+        <short_description>Eat a specific pineapple cake. </short_description>
+        <success_expression/>
+        <success_message>Pineapple cake eaten successfully. Eat another one! </success_message>
+        <sys_class_name>sn_cli_metadata_command</sys_class_name>
+        <sys_created_by>chiarng.lin@snc</sys_created_by>
+        <sys_created_on>2021-02-17 20:59:46</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_id>e94a72c71b9a6410377b6579b04bcb15</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>eat</sys_name>
+        <sys_package display_value="pineapplecake_factory" source="x_acer_pineappleca">30c8ba471b9a6410377b6579b04bcb88</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="pineapplecake_factory">30c8ba471b9a6410377b6579b04bcb88</sys_scope>
+        <sys_update_name>sn_cli_metadata_command_e94a72c71b9a6410377b6579b04bcb15</sys_update_name>
+        <sys_updated_by>chiarng.lin@snc</sys_updated_by>
+        <sys_updated_on>2021-02-17 21:24:17</sys_updated_on>
+    </sn_cli_metadata_command>
+</record_update>

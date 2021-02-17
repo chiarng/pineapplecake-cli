@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sn_cli_metadata_command">
+    <sn_cli_metadata_command action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <api_endpoint display_value="api/now/table/{table}">476ceba0730020109ac8dd943cf6a758</api_endpoint>
+        <callback_expression/>
+        <callback_interval>1000</callback_interval>
+        <callback_max_retries>10</callback_max_retries>
+        <command_group display_value="pineapplecake">5809b2871b9a6410377b6579b04bcb89</command_group>
+        <example>Bake a new pineapple cake:&#13;
+    $ snc pineapplecake bake</example>
+        <failure_expression>Something in the pineapple cake engine broke, you have to go fix it. :(</failure_expression>
+        <failure_message>Something in the pineapple cake engine broke, you have to go fix it. :(</failure_message>
+        <is_poll_command>false</is_poll_command>
+        <long_description>Bake a new pineapple cake. But unfortunately you can only bake one at a time. </long_description>
+        <name>bake</name>
+        <poll_command/>
+        <progress_message>Baking a pineapple cake, please wait. </progress_message>
+        <short_description>Bake a new pineapple cake!</short_description>
+        <success_expression>You have successfully baked a pineapple cake! Bake another one! </success_expression>
+        <success_message>You have successfully baked a pineapple cake! Bake another one! </success_message>
+        <sys_class_name>sn_cli_metadata_command</sys_class_name>
+        <sys_created_by>chiarng.lin@snc</sys_created_by>
+        <sys_created_on>2021-02-17 20:57:35</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_id>dc0a72c71b9a6410377b6579b04bcb80</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>bake</sys_name>
+        <sys_package display_value="pineapplecake_factory" source="x_acer_pineappleca">30c8ba471b9a6410377b6579b04bcb88</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="pineapplecake_factory">30c8ba471b9a6410377b6579b04bcb88</sys_scope>
+        <sys_update_name>sn_cli_metadata_command_dc0a72c71b9a6410377b6579b04bcb80</sys_update_name>
+        <sys_updated_by>chiarng.lin@snc</sys_updated_by>
+        <sys_updated_on>2021-02-17 21:03:48</sys_updated_on>
+    </sn_cli_metadata_command>
+</record_update>

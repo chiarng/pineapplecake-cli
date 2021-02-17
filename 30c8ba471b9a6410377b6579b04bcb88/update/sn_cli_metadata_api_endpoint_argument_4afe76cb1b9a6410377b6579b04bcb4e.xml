@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sn_cli_metadata_api_endpoint_argument">
+    <sn_cli_metadata_api_endpoint_argument action="INSERT_OR_UPDATE">
+        <command display_value="eat">e94a72c71b9a6410377b6579b04bcb15</command>
+        <name>table</name>
+        <parameter_type>path</parameter_type>
+        <sys_class_name>sn_cli_metadata_api_endpoint_argument</sys_class_name>
+        <sys_created_by>chiarng.lin@snc</sys_created_by>
+        <sys_created_on>2021-02-17 21:18:18</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_id>4afe76cb1b9a6410377b6579b04bcb4e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>table</sys_name>
+        <sys_package display_value="pineapplecake_factory" source="x_acer_pineappleca">30c8ba471b9a6410377b6579b04bcb88</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="pineapplecake_factory">30c8ba471b9a6410377b6579b04bcb88</sys_scope>
+        <sys_update_name>sn_cli_metadata_api_endpoint_argument_4afe76cb1b9a6410377b6579b04bcb4e</sys_update_name>
+        <sys_updated_by>chiarng.lin@snc</sys_updated_by>
+        <sys_updated_on>2021-02-17 21:18:18</sys_updated_on>
+        <value>x_acer_pineappleca_pineapplecake_registry</value>
+    </sn_cli_metadata_api_endpoint_argument>
+</record_update>

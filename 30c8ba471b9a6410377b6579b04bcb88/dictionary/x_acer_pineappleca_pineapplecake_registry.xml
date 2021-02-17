@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="pineapplecake_registry" max_length="40" name="x_acer_pineappleca_pineapplecake_registry" type="collection"/>
+</database>
